@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * parse_perc - returns the character
+ *set_perc - returns the character
  * @buff_dest: character
  * @arg: list of arguments
  * @buff_count: index of buffer pointer

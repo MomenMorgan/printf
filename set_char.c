@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * parse_char - returns the character
+ * set_char - returns the character
  * @buff_dest: buffer
  * @arg: list of arguments
  * @buff_count: index of buffer pointer

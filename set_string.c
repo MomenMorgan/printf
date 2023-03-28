@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * parse_str - writes the string
+ * set_str - writes the string
  * @buff_dest: character string
  * @arg: list of arguments
  * @buff_count: index f buffer pointer
