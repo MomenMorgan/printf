@@ -13,7 +13,7 @@ int _printf(const char *format, ...)
 	char buffer[2000];
 	va_list arg;
 	call_t container[] = {
-		{'c', set_char}, {'s', set_str}, {'d', set_int},
+		{'c', set_char}, {'s', set_str}, {'d', set_int}, {'i', set_int}
 		 {'%', set_perc}, {'\0', NULL}
 	};
 
